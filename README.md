@@ -204,7 +204,7 @@ Bearer <your_access_token>
 
 ## 👨‍💻 Author
 
-**Vicky Dharmwan**
+**Vivek Dharmwan**
 Backend Developer (FastAPI, Python)
 
 ---
